@@ -39,7 +39,7 @@ const skillCategories: SkillCategory[] = [
     title: 'Design & Tools',
     skills: [
       { name: 'UI/UX Design', level: 30, color: '#f472b6' },   // Pink
-      { name: 'Figma', level: 50, color: '#a259ff' },          // Figma purple
+      { name: 'Vercel', level: 50, color: '#a259ff' },          // Figma purple
       { name: 'Git/GitHub', level: 83, color: '#fbbf24' },     // Yellow
       { name: 'Prompt Engineering', level: 96, color: '#FF0000' },         // Red
     ]
